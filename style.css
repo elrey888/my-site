@@ -1,0 +1,48 @@
+body {
+    background-color: #0a68ba;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.card {
+    background-color: rgb(199, 24, 24);
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 10px;
+}
+
+.bio {
+    background-color: #4ac411;
+    padding: 15px;
+    border-radius: 12px;
+    margin: 20px 0;
+    line-height: 1.6;
+}
+
+h2 {
+    color: #2c3e50;
+    margin-top: 30px;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.list li {
+    background-color: #23adcf;
+    margin: 12px 0;
+    padding: 12px 18px;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
